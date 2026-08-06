@@ -3,7 +3,7 @@
 
 This public repository contains the normalized catalog consumed by Audio Plugin Manager.
 
-The catalog currently contains verified entries for Xfer Records, FabFilter, Soundtoys, and Sonic Charge. Entries are added only when the version and official update page can be verified. The catalog must not use unofficial mirrors or invented checksums.
+The catalog currently contains verified entries for Xfer Records, FabFilter, Soundtoys, Sonic Charge, and selected iZotope product families. Entries are added only when the version and official update page can be verified. The catalog must not use unofficial mirrors or invented checksums.
 
 The app endpoint is:
 
@@ -17,5 +17,6 @@ The current official source pages are:
 - FabFilter: https://www.fabfilter.com/download and https://www.fabfilter.com/support/downloads
 - Soundtoys: https://www.soundtoys.com/soundtoys-5-4-3-update/
 - Sonic Charge: https://soniccharge.com/download
+- iZotope: https://www.izotope.com/pages/product-downloads
 
 Some vendors require an account or their own installer manager. Those entries intentionally open the official vendor page instead of downloading an unverified installer.
