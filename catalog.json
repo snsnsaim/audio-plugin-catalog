@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-06T00:00:00Z",
+  "entries": [
+    {
+      "id": "xfer-serum",
+      "pluginName": "Serum",
+      "manufacturer": "Xfer Records",
+      "aliases": [],
+      "bundleIdentifiers": [
+        "com.xfer.serum.AU",
+        "com.xfer.serum.VST3",
+        "com.xfer.serum.AAX"
+      ],
+      "latestVersion": "1.368",
+      "releaseDate": null,
+      "downloadURL": null,
+      "releaseNotes": null,
+      "installerType": "Standalone",
+      "sourceURL": "https://support.xferrecords.com/article/35-how-do-i-update-serum",
+      "managerName": null,
+      "sha256": null,
+      "signatureTeamID": null,
+      "requiresNotarization": true,
+      "sourceType": "officialWebsite"
+    },
+    {
+      "id": "xfer-serum-2",
+      "pluginName": "Serum 2",
+      "manufacturer": "Xfer Records",
+      "aliases": [
+        "Serum2"
+      ],
+      "bundleIdentifiers": [
+        "com.xfer.serum2.AU",
+        "com.xfer.serum2.VST3",
+        "com.xfer.serum2.AAX"
+      ],
+      "latestVersion": "2.1.4",
+      "releaseDate": null,
+      "downloadURL": null,
+      "releaseNotes": null,
+      "installerType": "Standalone",
+      "sourceURL": "https://support.xferrecords.com/article/35-how-do-i-update-serum",
+      "managerName": null,
+      "sha256": null,
+      "signatureTeamID": null,
+      "requiresNotarization": true,
+      "sourceType": "officialWebsite"
+    }
+  ]
+}
